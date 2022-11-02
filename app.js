@@ -1,18 +1,14 @@
-import React from 'react'
+import React from "react";
 
 export const app = () => {
   return (
     <div>
-        Welcome world!!!
-        Welcome world!!!
-        Welcome world!!!
-        Welcome world!!!
-        Welcome world!!!
-        Welcome world!!!
-   Welcome to chennai!!!
+      <Col>
+        Welcome world!!! Welcome world!!! Welcome world!!! Welcome world!!!
+        Welcome world!!! Welcome world!!! Welcome to chennai!!!
+      </Col>
     </div>
-  )
-}
+  );
+};
 
-
-export default app
+export default app;
