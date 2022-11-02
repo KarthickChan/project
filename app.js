@@ -4,8 +4,7 @@ export const app = () => {
   return (
     <div>
       <Col>
-        Welcome world!!! Welcome world!!! Welcome world!!! Welcome world!!!
-        Welcome world!!! Welcome world!!! Welcome to chennai!!!
+       Welcome to Full stack world!!!
       </Col>
     </div>
   );
